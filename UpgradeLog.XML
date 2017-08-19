@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MyPinTool">
+</Property><Property Name="解决方案文件" Value="E:\project\1030\pin-2.10-45467-msvc10-ia32_intel64-windows\source\tools\MyPinTool\MyPinTool.sln">
+</Property><Property Name="Date" Value="2013年12月24日">
+</Property><Property Name="Time" Value="14:39">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MyPinTool.sln" Description="文件已成功备份为 E:\project\1030\pin-2.10-45467-msvc10-ia32_intel64-windows\source\tools\MyPinTool\MyPinTool.sln.old">
+</Event><Event ErrorLevel="0" Project="MyPinTool" Source="MyPinTool.vcproj" Description="Converting project file 'E:\project\1030\pin-2.10-45467-msvc10-ia32_intel64-windows\source\tools\MyPinTool\MyPinTool.vcproj'.">
+</Event><Event ErrorLevel="1" Project="MyPinTool" Source="MyPinTool.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="1" Project="MyPinTool" Source="MyPinTool.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="MyPinTool" Source="MyPinTool.vcproj" Description="VCConvertEngine could not convert attribute UseUnicodeResponseFiles = false under Tool VCCLCompilerTool.">
+</Event><Event ErrorLevel="1" Project="MyPinTool" Source="MyPinTool.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="MyPinTool" Source="MyPinTool.vcproj" Description="VCConvertEngine could not convert attribute UseUnicodeResponseFiles = false under Tool VCLinkerTool.">
+</Event><Event ErrorLevel="0" Project="MyPinTool" Source="MyPinTool.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="MyPinTool" Source="MyPinTool.vcproj" Description="VCConvertEngine could not convert attribute UseUnicodeResponseFiles = false under Tool VCCLCompilerTool.">
+</Event><Event ErrorLevel="1" Project="MyPinTool" Source="MyPinTool.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="MyPinTool" Source="MyPinTool.vcproj" Description="VCConvertEngine could not convert attribute UseUnicodeResponseFiles = false under Tool VCLinkerTool.">
+</Event><Event ErrorLevel="1" Project="MyPinTool" Source="MyPinTool.vcproj" Description="VCConvertEngine could not convert attribute UseUnicodeResponseFiles = false under Tool VCCLCompilerTool.">
+</Event><Event ErrorLevel="1" Project="MyPinTool" Source="MyPinTool.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="MyPinTool" Source="MyPinTool.vcproj" Description="VCConvertEngine could not convert attribute UseUnicodeResponseFiles = false under Tool VCLinkerTool.">
+</Event><Event ErrorLevel="1" Project="MyPinTool" Source="MyPinTool.vcproj" Description="VCConvertEngine could not convert attribute UseUnicodeResponseFiles = false under Tool VCCLCompilerTool.">
+</Event><Event ErrorLevel="1" Project="MyPinTool" Source="MyPinTool.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="MyPinTool" Source="MyPinTool.vcproj" Description="VCConvertEngine could not convert attribute UseUnicodeResponseFiles = false under Tool VCLinkerTool.">
+</Event><Event ErrorLevel="0" Project="MyPinTool" Source="MyPinTool.vcproj" Description="Done converting to new project file 'E:\project\1030\pin-2.10-45467-msvc10-ia32_intel64-windows\source\tools\MyPinTool\MyPinTool.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="MyPinTool" Source="MyPinTool.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MyPinTool.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="MyPinTool.sln" Description="Converted">
+</Event></UpgradeLog>

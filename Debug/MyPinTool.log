@@ -1,0 +1,23 @@
+﻿生成启动时间为 2015/9/14 15:45:03。
+     1>项目“E:\project\插桩源代码\pin-2.10-45467-msvc10-ia32_intel64-windows\source\tools\Dytool\DyPinTool\MyPinTool.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\MyPinTool.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\include /I..\..\include\gen /I..\InstLib /I"..\..\..\extras\xed2-ia32\include" /I..\..\..\extras\components\include /Zi /nologo /W3 /WX- /Od /Oy- /D TARGET_IA32 /D HOST_IA32 /D TARGET_WINDOWS /D BIGARRAY_MULTIPLIER=1 /D USING_XED /D _CRT_SECURE_NO_DEPRECATE /D _SECURE_SCL=0 /D WIN32 /Gm- /MT /GS- /Gy /fp:precise /Zc:wchar_t /Zc:forScope /GR- /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /wd4530 /analyze- /errorReport:prompt common.cpp Image.cpp MyPinTool.cpp queue.cpp stack.cpp Thread.cpp /EHs- /EHa- 
+         common.cpp
+     1>e:\project\插桩源代码\pin-2.10-45467-msvc10-ia32_intel64-windows\source\tools\dytool\dypintool\struct.h(3): fatal error C1083: 无法打开包括文件:“pin.H”: No such file or directory
+         Image.cpp
+     1>e:\project\插桩源代码\pin-2.10-45467-msvc10-ia32_intel64-windows\source\tools\dytool\dypintool\struct.h(3): fatal error C1083: 无法打开包括文件:“pin.H”: No such file or directory
+         MyPinTool.cpp
+     1>e:\project\插桩源代码\pin-2.10-45467-msvc10-ia32_intel64-windows\source\tools\dytool\dypintool\struct.h(3): fatal error C1083: 无法打开包括文件:“pin.H”: No such file or directory
+         queue.cpp
+     1>e:\project\插桩源代码\pin-2.10-45467-msvc10-ia32_intel64-windows\source\tools\dytool\dypintool\struct.h(3): fatal error C1083: 无法打开包括文件:“pin.H”: No such file or directory
+         stack.cpp
+         Thread.cpp
+     1>e:\project\插桩源代码\pin-2.10-45467-msvc10-ia32_intel64-windows\source\tools\dytool\dypintool\struct.h(3): fatal error C1083: 无法打开包括文件:“pin.H”: No such file or directory
+         正在生成代码...
+     1>已完成生成项目“E:\project\插桩源代码\pin-2.10-45467-msvc10-ia32_intel64-windows\source\tools\Dytool\DyPinTool\MyPinTool.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:07.30
